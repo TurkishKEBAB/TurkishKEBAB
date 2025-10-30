@@ -45,31 +45,38 @@ I design and build reliable software systems with a focus on **automation**, **v
   *Focus:* data structures, memory discipline, rule-based scenarios, test cases  
   *Repo:* https://github.com/TurkishKEBAB/dll-student-message-passing
 
-- **Cybersecurity Server Setup:** Selected, configured, and hardened **second-hand servers** for club cybersecurity exercises and hardware lessons.  
+- **Liang: Introduction to Java Programming — Solutions:** Chapter-organized solutions with:
+  - **Clean OOP** and explanatory comments
+  - **Deterministic I/O** samples for quick checks
+  - **Lightweight tests** (assert-based harness)
+  - **Consistent style** (naming, packages, JavaDoc)
+  Guided by **Volkan İstek**, the teacher who ignited my love for Java beyond the classroom. Respect to him from here 😀.
+  Repo: https://github.com/TurkishKEBAB/Okur-Yigit_VolkanIstek_Liang_J1_QA
+
   *Focus:* cost/performance optimization, logging/backup, basic network security  
-  *Repo:* https://github.com/TurkishKEBAB/cybersecurity-server-setup
 
 - **Işık University IEEE Tech Workshops:** Designed and delivered **technical workshops** (algorithms, data structures, Git, intro DevOps).  
   *Focus:* curriculum design, documentation, measurable learning outcomes  
-  *Docs/Repo:* https://github.com/TurkishKEBAB/ieee-tech-workshops
+  *Website:* https://isikieee.com.tr
 
 - **Schedule Optimizer (Python, Tkinter):** Constraint-aware course scheduling with conflict-free timetables across rooms/programs/instructors.  
   *Focus:* greedy + local search, schema validation & caching, typed models, logs, **GUI/CLI**  
-  *Repo:* https://github.com/TurkishKEBAB/schedule-optimizer
+  *Repo v1:* https://github.com/TurkishKEBAB/pythonProject3
+  *Repo v2:* It will be public soon, tahnk you four your patience (Now it has 10.000+ Python code line ) !!!
 
 - **Sarkan UAV — Team & Software:** Documentation, proposals, milestones, cross-team integration; support for **anti-jamming** communication work.  
   *Funding:* **TÜBİTAK ₺65,000** + sponsors (total budget ≈ **₺200,000**)  
-  *Repo:* https://github.com/TurkishKEBAB/sarkan-uav
+  *Website:* https://isikieee.com.tr
 
 ---
 
 ## Skills
 
 **Languages:** Java, C++, C#, Python  
-**Software Engineering:** OOP, data structures & algorithms, design patterns, software architecture, UML  
+**Software Engineering:** OOP, data structures & algorithms, design patterns, software architecture, UML, Requirement Analysis  
 **Systems & Tools:** Git/GitHub, logging & error handling, file I/O & serialization, concurrency, Linux/Bash  
-**Foundations:** Databases & JDBC, computer organization, logic design, calculus, discrete math, linear algebra  
-**Collaboration:** Leadership, project management (scope–time–cost), risk tracking, stakeholder communication
+**Foundations:** Databases & JDBC, Computer Organization, Logic Design, Calculus, Discrete Math, Linear Algebra  
+**Collaboration:** Leadership, Project Management (scope–time–cost), Risk Tracking, Stakeholder Communication
 
 ---
 
@@ -81,12 +88,13 @@ I design and build reliable software systems with a focus on **automation**, **v
 
 ---
 
-## 🎯 What I’m Looking For
+## What I’m Looking For
 
 - **Role:** Software Engineer with Cloud/DevOps focus (infrastructure automation, developer tooling, scalable services)  
 - **Environment:** Code review culture, CI/CD, clear ownership, measurable impact  
 - **Location:** Türkiye (İstanbul) / Remote-friendly  
 - **Availability:** Part-time during semester, full-time in summer
+- ****Internship****
 
 ---
 
@@ -130,7 +138,7 @@ I design and build reliable software systems with a focus on **automation**, **v
 
 ---
 
-## 🧰 Tech Stack (core)
+## Tech Stack (core)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -152,7 +160,7 @@ I design and build reliable software systems with a focus on **automation**, **v
 
 ---
 
-## 📄 Resume
+## Resume
 - **Download:** [cv.pdf](./cv.pdf)
 
 ---
