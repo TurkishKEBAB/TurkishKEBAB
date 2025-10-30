@@ -1,58 +1,78 @@
-# HELLO THERE
-# General Kenobi there,just kidding I'm Yiğit Okur 
+# Yiğit Okur — Cloud/DevOps-minded Software Engineer
 
-I'm from ![image](https://github.com/user-attachments/assets/7976c664-2c69-4b24-876f-240aba9516d2)
+I design and build reliable software systems with a focus on **automation**, **version control best-practices**, and **scalable architectures**. My background spans **software development** and **systems design**, with hands-on leadership across student engineering teams and tech communities.
 
-
-### 🌐 Connect with Me
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/YourChannel)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@YourProfile)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YourServer)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/YourProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YourProfile)
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YourProfile)
-
-
-**Sophomore Software Engineering Student & Technical Project Manager at Işık University IEEE** 🎓🔧  
-A blend of technical skills, project management, and hands-on mechanical experience, I’m passionate about merging tech with real-world applications.
+- **Core focus:** Cloud & DevOps foundations, CI/CD mindset, robust software architecture
+- **Strengths:** Detail-oriented implementation, clear technical communication, cross-functional coordination
+- **What I’m looking for:** An engineering role where I can contribute to **cloud-based infrastructure**, **automation tooling**, and **scalable services**.
 
 ---
 
-### 🌐 Connect with Me
-- **GitHub:** [github.com/TurkishKEBAB](https://github.com/TurkishKEBAB)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **Personal Website:** [Coming Soon!](#)
+## Skills
+
+**Languages:** Java, C#, C++, Python, R  
+**Software Engineering:** OOP, data structures & algorithms, design patterns, software architecture, UML  
+**Systems & Tools:** Git/GitHub, logging & error handling, file I/O & serialization, multithreading, Microsoft Office  
+**Foundations:** Databases & JDBC, logic design, computer organization, calculus, discrete math, linear algebra  
+**Collaboration:** Leadership, project management (scope–time–cost), risk tracking, stakeholder communication
 
 ---
 
-### 🛠 Roles & Responsibilities
-- **Technical Project Manager** at Işık University IEEE: Managing projects, organizing technical workshops, and developing innovative solutions.
-- **Software Engineering Sophomore**: Eager to dive deep into advanced programming concepts and practical applications.
+## Selected Projects
+
+### Schedule Optimizer (Python, Tkinter) — 2024
+Constraint-aware course scheduling system that produces conflict-free timetables across rooms, programs, and instructors.
+- Modeled rules for **time clashes**, **quotas**, and **workload balancing**; supports batch & incremental updates.  
+- Optimization layer combining **greedy + local search** with a tunable scoring function (overlap/overflow penalties).  
+- Robust spreadsheet ingestion with **schema validation**, anomaly handling, caching, and reproducible runs.  
+- Delivered with typed models, automated tests, structured logs, and clear architectural boundaries; **GUI/CLI** toolkit and audit-ready reports.
+
+### Sarkan UAV — Team & Software Member (2024–present)
+Software lead & coordination for a student UAV platform.
+- Managed documentation, proposals, timelines, and milestones; cross-team integration.  
+- Supported two graduation projects on **anti-jamming communication** for UAV telemetry/control.  
+- Secured **TÜBİTAK grant ₺65,000** and external sponsorship; total budget ≈ **₺200,000**.
 
 ---
 
-### 🔧 My Skills & Interests
-- **Languages:** Java ☕ | Python 🐍 | JavaScript 📜
-- **Technologies:** Maven, Apache POI, Double Linked Lists, Cybersecurity, Game Development
-- **Project Focus:** Implementing message-passing systems, Excel data processing, server configuration for club activities
+## Leadership & Community
+
+- **IEEEXtreme’24 Camp Organizer** (Işık University, national-level participants; algorithms & data structures focus)  
+- **IEEE Student Branch — Event Organizer (2023–present):** Organized **35+ events**; operations & communications  
+- **SIU 2025 — Organization Committee Member**  
+- Active memberships: IEEE AESS, CS, EMBS, RAS; Türkiye Teknoloji Takımı; Türkiye Java Community
 
 ---
 
-### 🌟 Featured Projects
-- **[Double Linked List Student Message Passing](https://github.com/YourUsername/YourProjectName):** Java project involving message-passing in a double linked list without `java.util.*`.
-- **[Cybersecurity Server Setup](https://github.com/YourUsername/YourServerProject):** Configured second-hand servers for club cybersecurity exercises and hardware lessons.
-- **[Işık University IEEE Tech Workshops](https://github.com/YourUsername/YourWorkshopProject):** Developed and led technical workshops as part of my role in the IEEE.
+## Education
+
+**B.Sc. Software Engineering — Işık University (2023–2027, expected)**  
+- IEEE Student Branch: Project Coordinator, **Vice President**  
+- Student Assistant (CSE Dept, OOP) • AdaLab Assistant (Academic Data Analytics Lab)
 
 ---
 
-### 📈 GitHub Stats
-![Yiğit's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurkishKEBAB&show_icons=true&theme=radical)
+## How I work
+
+- **Ship with quality:** typed models, tests, logs, docs, and clean repos  
+- **Automate the boring parts:** scripts, repeatable workflows, CI-ready steps  
+- **Communicate clearly:** architecture notes, READMEs, UML, and concise status reports
 
 ---
 
-### ✨ Fun Facts
-- 🚀 Attended **CyberKonf 2024** in Istanbul with Işık University IEEE.
-- 💡 Always exploring new interests in data analysis and embedded systems.
-- 🎮 Diving into game development as a side project.
+## Quotes I work by (the only funny part 😉)
 
-Feel free to reach out, collaborate, or just say hello! Let’s work together on some exciting projects!
+> “These aren’t the bugs you’re looking for.” — *Obi-Wan Kenobi (during code review)*  
+> “Do. Or do not. There is no try — unless you forgot to push.” — *Master Yoda*  
+> “Peace at home, peace in the code.” — *Mustafa Kemal Atatürk*  
+> “Plans are nothing; planning is everything — especially before a `git push --force`.” — *Atatürk-esque wisdom*
+
+---
+
+## Contact
+
+- **GitHub:** [github.com/TurkishKEBAB](https://github.com/TurkishKEBAB)  
+- **LinkedIn:** https://www.linkedin.com/in/yiğit-okur-050b5b278  
+- **Email:** yigitokur@ieee.org
+
+If our tech stack and product challenges align, I’d be happy to connect.
