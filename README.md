@@ -161,7 +161,8 @@ I design and build reliable software systems with a focus on **automation**, **v
 ---
 
 ## Resume
-- **Download:** [cv.pdf](./cv.pdf)
+- **Download:** [![CV](https://img.shields.io/badge/CV-Download-blue)](https://raw.githubusercontent.com/TurkishKEBAB/cv.pdf/main/cv.pdf)
+
 
 ---
 
