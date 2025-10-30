@@ -22,6 +22,20 @@ I design and build reliable software systems with a focus on **automation**, **v
 - **Strengths:** Detail-oriented implementation, clear technical communication, cross-functional coordination  
 - **Seeking:** An engineering role to contribute to **cloud infrastructure**, **automation tooling**, and **scalable services**
 
+## ⏱ Weekly Coding Stats (WakaTime)
+
+<!-- WakaTime public profile: -->
+[![WakaTime](https://wakatime.com/badge/user/YigitOkur.svg)](https://wakatime.com/@YigitOkur)
+
+<!-- GitHub Readme WakaTime card -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=YigitOkur&hide_border=true&bg_color=00000000"
+    height="300"
+    alt="WakaTime Stats"
+  />
+</p>
+
 ---
 
 ## 📚 Contents
