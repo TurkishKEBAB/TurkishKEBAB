@@ -9,28 +9,70 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Cloud%2FDevOps-minded+Software+Engineer;Clean+Architecture+%7C+Automation+%7C+CI%2FCD"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+at+I%C5%9Fk+University;Cloud%2FDevOps+Enthusiast+%7C+IEEE+VP;From+Embedded+to+Web+to+Cloud"
     alt="subtitle"
   />
 </p>
 
-# Yiğit Okur — Cloud/DevOps-minded Software Engineer
+# Yiğit Okur — Software Engineering Student (Cloud/DevOps-minded)
 
-I design and build reliable software systems with a focus on **automation**, **version control best practices**, and **scalable architectures**. My background spans **software development** and **systems design**, with hands-on leadership across student engineering teams and tech communities.
+I design and build software systems with a focus on **clean architecture**, **automation**, and **reliable tooling**.  
+I started with C in middle school, went through **robotics (FRC)** and **embedded**, and today I’m leaning into **Cloud & DevOps** while still strengthening my fundamentals.
 
-- **Core focus:** Cloud & DevOps foundations, CI/CD mindset, robust software architecture  
-- **Strengths:** Detail-oriented implementation, clear technical communication, cross-functional coordination  
-- **Seeking:** An engineering role to contribute to **cloud infrastructure**, **automation tooling**, and **scalable services**
+- **Current focus:** Backend fundamentals, Cloud & DevOps basics, solid Java/Python
+- **Strengths:** Learning fast, explaining clearly, taking responsibility in teams
+- **Goal:** Internship in **Cloud/DevOps or backend** where I can both learn and contribute
 
-## ⏱ Weekly Coding Stats (WakaTime)
+---
 
-<!-- WakaTime public profile: -->
+## 📚 Contents
+
+- [About Me](#about-me)
+- [Weekly Coding Stats](#weekly-coding-stats)
+- [My Journey So Far](#my-journey-so-far)
+- [Skills](#skills)
+- [Projects](#projects)
+- [GitHub Stats](#github-stats)
+- [Tech Stack](#tech-stack)
+- [What I'm Looking For](#what-im-looking-for)
+- [Achievements & Certifications](#achievements--certifications)
+- [Resume](#resume)
+- [Contact](#contact)
+- [Quotes I Like](#quotes-i-like)
+
+---
+
+## About Me
+
+I’m a **Software Engineering student at Işık University (2023–2027)**.
+
+- I got into programming thanks to my uncle (a computer engineer) back in elementary school.
+- My first formal course was at **C ve Sistem Programcıları Derneği** (Programming with C).
+- In high school, I joined **FRC Team 7840 EMONER** and we reached the **Houston World Championship Finals (2019)**.
+- At university, I moved across **embedded → desktop → Python tools → Cloud/DevOps**, while also taking on leadership roles.
+
+**Academic roles:**
+
+- **Student Assistant**, Computer Science & Engineering Dept. — OOP lab supervision and student support  
+- **AdaLab Assistant**, Academic Data Analytics Lab — helping with AI/data analytics–related work
+
+Right now, I’m:
+
+- Studying full-time at Işık University  
+- Working as a **Project Management Intern at Arch of Sigma**  
+- Actively involved in **IEEE Işık Student Branch** and technical events
+
+---
+
+## Weekly Coding Stats
+
+I track my coding time with **WakaTime**:
+
 [![WakaTime](https://wakatime.com/badge/user/YigitOkur.svg)](https://wakatime.com/@YigitOkur)
 
-<!-- GitHub Readme WakaTime card -->
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=YigitOkur&hide_border=true&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=YigitOkur&hide_border=true&bg_color=00000000&layout=compact"
     height="300"
     alt="WakaTime Stats"
   />
@@ -38,162 +80,285 @@ I design and build reliable software systems with a focus on **automation**, **v
 
 ---
 
-## 📚 Contents
-- [Featured Projects](#-featured-projects)
-- [Skills](#skills)
-- [How I Work](#how-i-work)
-- [What I’m Looking For](#-what-im-looking-for)
-- [Leadership & Community](#leadership--community)
-- [Education](#education)
-- [GitHub Stats](#-github-stats)
-- [Tech Stack Badges](#-tech-stack-core)
-- [Resume](#-resume)
-- [Contact](#contact)
-- [Quotes I Work By](#-quotes-i-work-by-the-only-funny-part-)
+## My Journey So Far
+
+### Arch of Sigma — Project Management Intern (Remote)  
+**Oct 2025 – Present**
+
+- Assisting project managers on architecture & engineering projects across countries (Türkiye, Balkans).  
+- Supporting **project planning, documentation, and task tracking** for industrial design and product development work.  
+- Participating in design workflows that use tools like **SketchUp** and **Rhinoceros 3D**, and helping keep portfolios and deliverables organized.  
+
+> Focus: project management basics, interdisciplinary communication, remote teamwork.
 
 ---
 
-## 🌟 Featured Projects
+### IEEE Işık Student Branch — From Member to Vice President  
 
-- **Double Linked List Student Message Passing (Java):** Implemented message passing on a **double linked list** **without** `java.util.*` (only `Scanner` & `Random`).  
-  *Focus:* data structures, memory discipline, rule-based scenarios, test cases  
-  *Repo:* https://github.com/TurkishKEBAB/dll-student-message-passing
+- Joined IEEE in my **first semester**.  
+- After **one semester**, became **Project Coordinator**.  
+- About a year later, became **Vice President**.
 
-- **Liang: Introduction to Java Programming — Solutions:** Chapter-organized solutions with:
-  - **Clean OOP** and explanatory comments
-  - **Deterministic I/O** samples for quick checks
-  - **Lightweight tests** (assert-based harness)
-  - **Consistent style** (naming, packages, JavaDoc)
-  Guided by **Volkan İstek**, the teacher who ignited my love for Java beyond the classroom. Respect to him from here 😀.
-  Repo: https://github.com/TurkishKEBAB/Okur-Yigit_VolkanIstek_Liang_J1_QA
+What I do there:
 
-  *Focus:* cost/performance optimization, logging/backup, basic network security  
+- Plan and support **35+ technical events** (workshops, talks, bootcamps).  
+- Reach **500+ students** with content on algorithms, Git, DevOps basics, etc.  
+- Work with sponsors and speakers to bring real-world engineering topics to campus.
 
-- **Işık University IEEE Tech Workshops:** Designed and delivered **technical workshops** (algorithms, data structures, Git, intro DevOps).  
-  *Focus:* curriculum design, documentation, measurable learning outcomes  
-  *Website:* https://isikieee.com.tr
+**Highlights:**
 
-- **Schedule Optimizer (Python, Tkinter):** Constraint-aware course scheduling with conflict-free timetables across rooms/programs/instructors.  
-  *Focus:* greedy + local search, schema validation & caching, typed models, logs, **GUI/CLI**  
-  *Repo v1:* https://github.com/TurkishKEBAB/pythonProject3
-  *Repo v2:* It will be public soon, tahnk you four your patience (Now it has 10.000+ Python code line ) !!!
+- **IEEEXtreme’24 Programming Camp Organizer (July 2024)**  
+  Week-long national camp at Işık University on algorithms, data structures, and competitive programming.  
 
-- **Sarkan UAV — Team & Software:** Documentation, proposals, milestones, cross-team integration; support for **anti-jamming** communication work.  
-  *Funding:* **TÜBİTAK ₺65,000** + sponsors (total budget ≈ **₺200,000**)  
-  *Website:* https://isikieee.com.tr
+- **SIU 2025 Organization Committee Member**  
+  Helping organize a major IEEE signal processing conference (≈300+ attendees).
+
+---
+
+### Sarkan UAV — Software & Coordination
+
+- Part of the **Sarkan UAV** team working on a defense-focused UAV platform.  
+- Contributed to **Python-based telemetry and control** work.  
+- Helped with **grant applications, documentation, and milestone planning** between teams.  
+- The project received a **₺65,000 TÜBİTAK grant** plus sponsorships (total budget ≈ **₺200,000**).
+
+---
+
+### FIRST Robotics Competition (FRC)
+
+- Member of **Team 7840 EMONER** in high school.  
+- **Houston World Championship Finalist (2019)**.  
+- Built embedded & automation systems and worked closely with mechanical & electrical subteams.
 
 ---
 
 ## Skills
 
-**Languages:** Java, C++, C#, Python  
-**Software Engineering:** OOP, data structures & algorithms, design patterns, software architecture, UML, Requirement Analysis  
-**Systems & Tools:** Git/GitHub, logging & error handling, file I/O & serialization, concurrency, Linux/Bash  
-**Foundations:** Databases & JDBC, Computer Organization, Logic Design, Calculus, Discrete Math, Linear Algebra  
-**Collaboration:** Leadership, Project Management (scope–time–cost), Risk Tracking, Stakeholder Communication
+**Languages**
+
+- Java (strong), Python, C++, C#, SQL  
+- Basic JavaScript/TypeScript for simple web frontends
+
+**Software Engineering**
+
+- OOP, data structures & algorithms  
+- Basic software architecture & design principles  
+- UML, requirement analysis, basic multithreading, JDBC
+
+**Web / Backend**
+
+- Python scripting and small REST APIs  
+- FastAPI (entry level)  
+- Simple frontends with React + Vite
+
+**Cloud & DevOps**
+
+- Docker, container-based development  
+- CI/CD mindset (Git-based workflows, GitHub/GitLab)  
+- PostgreSQL, Redis (beginner–intermediate)  
+- Learning AWS/Kubernetes concepts
+
+**Embedded & Systems**
+
+- Robotics, simple telemetry, microcontrollers (Arduino, STM32)  
+- Basic RF / communication concepts from UAV & FRC work
+
+**Collaboration**
+
+- Leading and organizing student teams  
+- Writing clear documentation and READMEs  
+- Comfortable presenting and teaching basics to other students
 
 ---
 
-## How I Work
+## Projects
 
-- **Ship with quality:** typed models, tests, logs, docs, clean repos  
-- **Automate the boring parts:** scripts, reproducible workflows, CI-ready steps  
-- **Communicate clearly:** architecture notes, READMEs, UML, concise status reports
+### Academic Schedule Optimizer (Python, Tkinter)
 
----
+Constraint-aware course scheduling tool for university timetables.
 
-## What I’m Looking For
+- Generates **conflict-free timetables** across multiple programs and instructors.  
+- Uses greedy / local-search style logic to respect prerequisites and instructor workloads.  
+- Provides both **GUI (Tkinter)** and **CLI**.  
+- Includes logging, configuration files, and basic validation.
 
-- **Role:** Software Engineer with Cloud/DevOps focus (infrastructure automation, developer tooling, scalable services)  
-- **Environment:** Code review culture, CI/CD, clear ownership, measurable impact  
-- **Location:** Türkiye (İstanbul) / Remote-friendly  
-- **Availability:** Part-time during semester, full-time in summer
-- ****Internship****
-
----
-
-## Leadership & Community
-
-- **IEEEXtreme’24 Camp Organizer** (algorithms/data structures track)  
-- **IEEE Student Branch — Event Organizer (2023–present):** 35+ events; operations & communications  
-- **SIU 2025 — Organization Committee Member**  
-- Active: IEEE AESS, CS, EMBS, RAS; T3 Foundation; Türkiye Java Community
+**Tech:** Python, Tkinter  
+**Repo v1:** https://github.com/TurkishKEBAB/pythonProject3  
+**Repo v2:** Coming soon (cleaner, extended version)
 
 ---
 
-## Education
+### Double Linked List Student Message Passing (Java)
 
-**B.Sc. Software Engineering — Işık University (2023–2027, expected)**  
-- IEEE Student Branch: Project Coordinator, **Vice President**  
-- Student Assistant (CSE Dept, OOP) • AdaLab Assistant (Academic Data Analytics Lab)
+A project built to practice data structures **without** Java collections.
+
+- Implements a **double linked list** from scratch (no `java.util.*` except `Scanner` and `Random`).  
+- Simulates **message passing** between students with different rule-based scenarios.  
+- Focus on pointer discipline, edge cases, and testability.
+
+**Tech:** Java  
+**Repo:** https://github.com/TurkishKEBAB/dll-student-message-passing
 
 ---
 
-## 📊 GitHub Stats
+### Liang Java Solutions — Structured Practice
+
+Solutions to **“Introduction to Java Programming”** by Y. Daniel Liang.
+
+- Organized per chapter with **clean OOP** and explanatory comments.  
+- Deterministic input/output for quick checks.  
+- Lightweight assert-based tests.  
+- Consistent naming and JavaDoc formatting.
+
+Guided by **Volkan İstek**, the teacher who made me really enjoy Java.
+
+**Repo:** https://github.com/TurkishKEBAB/Okur-Yigit_VolkanIstek_Liang_J1_QA
+
+---
+
+### IEEE Tech Workshops @ Işık University
+
+- Designed and delivered workshops on:
+  - Algorithms & data structures  
+  - Git and GitHub workflows  
+  - Introductory DevOps concepts  
+- Prepared slides, code examples, and small exercises for participants.
+
+**Website:** https://isikieee.com.tr
+
+---
+
+## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TurkishKEBAB&show_icons=true&rank_icon=percentile&include_all_commits=true&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=TurkishKEBAB&hide_border=true&background=FFFFFF00" height="165" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TurkishKEBAB&show_icons=true&rank_icon=percentile&include_all_commits=true&hide_border=true&bg_color=00000000"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=TurkishKEBAB&hide_border=true&background=FFFFFF00"
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishKEBAB&layout=compact&hide_border=true&bg_color=00000000" height="140" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishKEBAB&layout=compact&hide_border=true&bg_color=00000000"
+    height="140"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TurkishKEBAB&bg_color=ffffff00&hide_border=true&radius=8" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TurkishKEBAB&bg_color=ffffff00&hide_border=true&radius=8"
+    alt="Contribution Graph"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=TurkishKEBAB&no-frame=true&no-bg=true&margin-w=8" alt="Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=TurkishKEBAB&no-frame=true&no-bg=true&margin-w=8"
+    alt="Trophies"
+  />
 </p>
 
-<sub>Note: Cards reflect public repositories and commit attribution on GitHub; they are not a direct measure of overall skill.</sub>
+<sub>Note: These stats only reflect public repositories and commit attribution on GitHub.</sub>
 
 ---
 
-## Tech Stack (core)
+## Tech Stack
+
+**Core**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+**Backend / Web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![REST](https://img.shields.io/badge/REST-000000?logo=swagger&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
 
-<sub>Also: JDBC, testing, logging, concurrency, design patterns, UML.</sub>
+---
+
+## What I'm Looking For
+
+I’m looking for **internship opportunities** where I can:
+
+- Work on **cloud infrastructure**, **DevOps tooling**, or **backend services**  
+- Learn from experienced engineers in a code-review culture  
+- Contribute to real projects instead of just watching
+
+- **Location:** İstanbul, Türkiye / Remote-friendly  
+- **Availability:** Part-time during semester, full-time in summer  
 
 ---
 
-## 🏅 Achievements & Certifications
+## Achievements & Certifications
 
-- TÜBİTAK student grant recipient (UAV project) — budget ≈ ₺200,000  
-- IEEEXtreme’24 Camp Organizer — algorithms & data structures track  
-- SIU 2025 Organization Committee — operations & logistics
+- **TÜBİTAK Grant Recipient:** ₺65,000 + sponsors, total budget ≈ ₺200,000 (UAV project)  
+- **FRC Houston World Championship Finalist (2019)** — Team 7840 EMONER  
+- **IEEEXtreme’24 Camp Organizer** — national programming bootcamp at Işık University  
+- **SIU 2025 Conference Committee Member** — IEEE conference organization (≈300+ participants)
+
+**Selected Certifications**
+
+- DevSecOps  
+- Miuul Machine Learning Bootcamp  
+- TalentCoders TechCamp  
+- C Programming — C ve Sistem Programcıları Derneği  
+- Cambridge C1 English  
 
 ---
 
 ## Resume
-- **Download:** [![CV](https://img.shields.io/badge/CV-Download-blue)](https://raw.githubusercontent.com/TurkishKEBAB/cv.pdf/main/cv.pdf)
 
+- **Download:**  
+  [![CV](https://img.shields.io/badge/CV-Download-blue)](https://raw.githubusercontent.com/TurkishKEBAB/cv.pdf/main/cv.pdf)
 
 ---
 
 ## Contact
 
-- **GitHub:** [github.com/TurkishKEBAB](https://github.com/TurkishKEBAB)  
+- **GitHub:** https://github.com/TurkishKEBAB  
 - **LinkedIn:** https://www.linkedin.com/in/yiğit-okur-050b5b278  
-- **Email:** yigitokur@ieee.org
+- **Email:** yigitokur@ieee.org  
+- **Community:** https://isikieee.com.tr  
 
-If our tech stack and product challenges align, I’d be happy to connect.
+If our tech stack and interests overlap, feel free to reach out.
 
 ---
 
-## 😄 Quotes I Work By (the only funny part)
+## Quotes I Like
 
-> “These aren’t the bugs you’re looking for.” — *Obi-Wan Kenobi (during code review)*  
-> “Do. Or do not. There is no try — unless you forgot to push.” — *Master Yoda*  
-> “Peace at home, peace in the code.” — *Mustafa Kemal Atatürk*  
-> “Bir milletin gerçek kurtuluşu eğitimle olur; bir projenin kurtuluşu ise iyi bir README ile.” — *Mustafa Kemal Atatürk’ten esinle*  
-> “Stay on target… and write tests.” — *Red Leader, probably*
+> “The best way to predict the future is to invent it.” — Alan Kay  
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson & Gerald Sussman  
+
+> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra  
+
+> “Premature optimization is the root of all evil (or at least most of it) in programming.” — Donald Knuth  
+
+> “Hayatta en hakiki mürşit ilimdir, fendir.” — Mustafa Kemal Atatürk  
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=TurkishKEBAB&label=Profile%20Views&color=blue&style=flat"
+    alt="Profile Views"
+  />
+</p>
