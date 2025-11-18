@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+at+I%C5%9Fk+University;Cloud%2FDevOps+Enthusiast+%7C+IEEE+VP;From+Embedded+to+Web+to+Cloud"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+at+I%C5%9Fk+University;Cloud+and+DevOps+Enthusiast+%7C+IEEE+VP;From+Embedded+to+Web+to+Cloud"
     alt="subtitle"
   />
 </p>
@@ -19,9 +19,9 @@
 I design and build software systems with a focus on **clean architecture**, **automation**, and **reliable tooling**.  
 I started with C in middle school, went through **robotics (FRC)** and **embedded**, and today I’m leaning into **Cloud & DevOps** while still strengthening my fundamentals.
 
-- **Current focus:** Backend fundamentals, Cloud & DevOps basics, solid Java/Python
-- **Strengths:** Learning fast, explaining clearly, taking responsibility in teams
-- **Goal:** Internship in **Cloud/DevOps or backend** where I can both learn and contribute
+- **Current focus:** Backend fundamentals, Cloud & DevOps basics, solid Java/Python  
+- **Strengths:** Learning fast, explaining clearly, taking responsibility in teams  
+- **Goal:** Internship in **Cloud/DevOps or backend** where I can both learn and contribute  
 
 ---
 
@@ -33,6 +33,8 @@ I started with C in middle school, went through **robotics (FRC)** and **embedde
 - [Skills](#skills)
 - [Projects](#projects)
 - [GitHub Stats](#github-stats)
+- [More Detailed GitHub Metrics](#more-detailed-github-metrics)
+- [Featured Repositories](#featured-repositories)
 - [Tech Stack](#tech-stack)
 - [What I'm Looking For](#what-im-looking-for)
 - [Achievements & Certifications](#achievements--certifications)
@@ -46,21 +48,21 @@ I started with C in middle school, went through **robotics (FRC)** and **embedde
 
 I’m a **Software Engineering student at Işık University (2023–2027)**.
 
-- I got into programming thanks to my uncle (a computer engineer) back in elementary school.
-- My first formal course was at **C ve Sistem Programcıları Derneği** (Programming with C).
-- In high school, I joined **FRC Team 7840 EMONER** and we reached the **Houston World Championship Finals (2019)**.
+- I got into programming thanks to my uncle (a computer engineer) back in elementary school.  
+- My first formal course was at **C ve Sistem Programcıları Derneği** (Programming with C).  
+- In high school, I joined **FRC Team 7840 EMONER** and we reached the **Houston World Championship Finals (2019)**.  
 - At university, I moved across **embedded → desktop → Python tools → Cloud/DevOps**, while also taking on leadership roles.
 
 **Academic roles:**
 
 - **Student Assistant**, Computer Science & Engineering Dept. — OOP lab supervision and student support  
-- **AdaLab Assistant**, Academic Data Analytics Lab — helping with AI/data analytics–related work
+- **AdaLab Assistant**, Academic Data Analytics Lab — helping with AI/data analytics–related work  
 
 Right now, I’m:
 
 - Studying full-time at Işık University  
 - Working as a **Project Management Intern at Arch of Sigma**  
-- Actively involved in **IEEE Işık Student Branch** and technical events
+- Actively involved in **IEEE Işık Student Branch** and technical events  
 
 ---
 
@@ -137,37 +139,37 @@ What I do there:
 **Languages**
 
 - Java (strong), Python, C++, C#, SQL  
-- Basic JavaScript/TypeScript for simple web frontends
+- Basic JavaScript/TypeScript for simple web frontends  
 
 **Software Engineering**
 
 - OOP, data structures & algorithms  
 - Basic software architecture & design principles  
-- UML, requirement analysis, basic multithreading, JDBC
+- UML, requirement analysis, basic multithreading, JDBC  
 
 **Web / Backend**
 
 - Python scripting and small REST APIs  
 - FastAPI (entry level)  
-- Simple frontends with React + Vite
+- Simple frontends with React + Vite  
 
 **Cloud & DevOps**
 
 - Docker, container-based development  
 - CI/CD mindset (Git-based workflows, GitHub/GitLab)  
 - PostgreSQL, Redis (beginner–intermediate)  
-- Learning AWS/Kubernetes concepts
+- Learning AWS/Kubernetes concepts  
 
 **Embedded & Systems**
 
 - Robotics, simple telemetry, microcontrollers (Arduino, STM32)  
-- Basic RF / communication concepts from UAV & FRC work
+- Basic RF / communication concepts from UAV & FRC work  
 
 **Collaboration**
 
 - Leading and organizing student teams  
 - Writing clear documentation and READMEs  
-- Comfortable presenting and teaching basics to other students
+- Comfortable presenting and teaching basics to other students  
 
 ---
 
@@ -260,7 +262,7 @@ Guided by **Volkan İstek**, the teacher who made me really enjoy Java.
 
 <p align="left">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=TurkishKEBAB&no-frame=true&no-bg=true&margin-w=8"
+    src="https://github-profile-trophy.vercel.app/?username=TurkishKEBAB&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
     alt="Trophies"
   />
 </p>
@@ -269,30 +271,66 @@ Guided by **Volkan İstek**, the teacher who made me really enjoy Java.
 
 ---
 
+## More Detailed GitHub Metrics
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TurkishKEBAB&theme=github"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TurkishKEBAB&theme=github"
+    alt="Repos per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TurkishKEBAB&theme=github&utcOffset=3"
+    alt="Productive Time"
+  />
+</p>
+
+---
+
+## Featured Repositories
+
+<p align="left">
+  <a href="https://github.com/TurkishKEBAB/pythonProject3">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=TurkishKEBAB&repo=pythonProject3&hide_border=true&bg_color=00000000"
+      alt="Academic Schedule Optimizer"
+    />
+  </a>
+  <a href="https://github.com/TurkishKEBAB/dll-student-message-passing">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=TurkishKEBAB&repo=dll-student-message-passing&hide_border=true&bg_color=00000000"
+      alt="DLL Student Message Passing"
+    />
+  </a>
+  <a href="https://github.com/TurkishKEBAB/Okur-Yigit_VolkanIstek_Liang_J1_QA">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=TurkishKEBAB&repo=Okur-Yigit_VolkanIstek_Liang_J1_QA&hide_border=true&bg_color=00000000"
+      alt="Liang Java Solutions"
+    />
+  </a>
+</p>
+
+---
+
 ## Tech Stack
 
-**Core**
+**Languages & Core**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts&perline=6)](https://skillicons.dev)
 
-**Backend / Web**
+**Backend / DevOps**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![REST](https://img.shields.io/badge/REST-000000?logo=swagger&logoColor=white)
+[![Backend & DevOps](https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux,bash&perline=6)](https://skillicons.dev)
 
-**Cloud & DevOps**
+**Tools & IDEs**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode&perline=5)](https://skillicons.dev)
 
 ---
 
@@ -302,7 +340,7 @@ I’m looking for **internship opportunities** where I can:
 
 - Work on **cloud infrastructure**, **DevOps tooling**, or **backend services**  
 - Learn from experienced engineers in a code-review culture  
-- Contribute to real projects instead of just watching
+- Contribute to real projects instead of just watching  
 
 - **Location:** İstanbul, Türkiye / Remote-friendly  
 - **Availability:** Part-time during semester, full-time in summer  
