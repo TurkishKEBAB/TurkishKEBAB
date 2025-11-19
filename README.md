@@ -302,7 +302,7 @@ Guided by **Volkan İstek**, the teacher who made me really enjoy Java.
       alt="Academic Schedule Optimizer"
     />
   </a>
-  <a href="https://github.com/TurkishKEBAB/dll-student-message-passing">
+  <a href="https://github.com/TurkishKEBAB/Site">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=TurkishKEBAB&repo=Site&hide_border=true&bg_color=00000000"
       alt="My Portfolio Website"
