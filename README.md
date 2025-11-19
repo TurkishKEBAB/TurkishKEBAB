@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+at+I%C5%9Fk+University;Cloud+and+DevOps+Enthusiast+%7C+IEEE+VP;From+Embedded+to+Web+to+Cloud"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+at+I%C5%9F%C4%B1k+University;Cloud+and+DevOps+Enthusiast+%7C+IEEE+VP;From+Embedded+to+Web+to+Cloud"
     alt="subtitle"
   />
 </p>
