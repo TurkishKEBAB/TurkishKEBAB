@@ -304,8 +304,8 @@ Guided by **Volkan İstek**, the teacher who made me really enjoy Java.
   </a>
   <a href="https://github.com/TurkishKEBAB/dll-student-message-passing">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=TurkishKEBAB&repo=dll-student-message-passing&hide_border=true&bg_color=00000000"
-      alt="DLL Student Message Passing"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=TurkishKEBAB&repo=Site&hide_border=true&bg_color=00000000"
+      alt="My Portfolio Website"
     />
   </a>
   <a href="https://github.com/TurkishKEBAB/Okur-Yigit_VolkanIstek_Liang_J1_QA">
