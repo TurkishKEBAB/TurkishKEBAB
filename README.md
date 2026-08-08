@@ -74,8 +74,73 @@ coding agents inside reviewable, bounded actions.
 [yigitokur.me](https://yigitokur.me): PostgreSQL and Redis, JWT auth with refresh
 rotation, bilingual content, and a CI pipeline with coverage and SonarCloud gates.
 
+<p align="center">
+  <a href="https://github.com/TurkishKEBAB/isikschedule-core"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TurkishKEBAB&repo=isikschedule-core&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86&icon_color=0099cc" alt="isikschedule-core"></a>
+  <a href="https://github.com/TurkishKEBAB/isikschedule-web"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TurkishKEBAB&repo=isikschedule-web&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86&icon_color=0099cc" alt="isikschedule-web"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/TurkishKEBAB/isikschedule-desktop"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TurkishKEBAB&repo=isikschedule-desktop&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86&icon_color=0099cc" alt="isikschedule-desktop"></a>
+  <a href="https://github.com/TurkishKEBAB/Agentic-Ide"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TurkishKEBAB&repo=Agentic-Ide&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86&icon_color=0099cc" alt="Agentic-Ide"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/TurkishKEBAB/Site"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TurkishKEBAB&repo=Site&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86&icon_color=0099cc" alt="Site"></a>
+</p>
+
 ---
 
+## Weekly coding stats
+
+```console
+$ wakatime --summary
+```
+
+<p align="center">
+  <img src="https://wakatime.com/share/@YigitOkur/55dfb1af-d534-472e-883e-b7e5130c2278.svg" width="49%" alt="WakaTime languages">
+  <img src="https://wakatime.com/share/@YigitOkur/a2cfc19f-3f33-474f-a36c-02a488c76701.svg" width="49%" alt="WakaTime editors">
+</p>
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TurkishKEBAB&show_icons=true&rank_icon=percentile&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86&icon_color=0099cc" height="165" alt="GitHub statistics">
+  <img src="https://streak-stats.demolab.com?user=TurkishKEBAB&hide_border=true&background=00000000&ring=0099cc&fire=96660a&currStreakLabel=0099cc&sideLabels=737b86&dates=737b86&stroke=737b86&sideNums=737b86&currStreakNum=737b86" height="165" alt="Contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TurkishKEBAB&layout=compact&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86&langs_count=10" height="180" alt="Most used languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TurkishKEBAB&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TurkishKEBAB&theme=github" height="180" alt="Most committed languages">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TurkishKEBAB&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TurkishKEBAB&theme=github" height="180" alt="Repositories per language">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TurkishKEBAB&theme=github_dark&utcOffset=3">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TurkishKEBAB&theme=github&utcOffset=3" height="180" alt="Productive time of day">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TurkishKEBAB&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TurkishKEBAB&theme=github" alt="Profile details">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TurkishKEBAB&bg_color=00000000&hide_border=true&radius=8&color=737b86&line=0099cc&point=96660a" alt="Contribution activity">
+</p>
+
+<sub>These figures cover public repositories and commit attribution on GitHub only.</sub>
+
+---
 ## Currently
 
 ```console
@@ -179,33 +244,6 @@ Python.
 
 **Certifications** — DevSecOps · Miuul Machine Learning Bootcamp · TalentCoders TechCamp ·
 C Programming, C ve Sistem Programcıları Derneği · Cambridge C1 English
-
-</details>
-
-<details>
-<summary><b>Analytics</b> — GitHub and WakaTime activity</summary>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=TurkishKEBAB&show_icons=true&rank_icon=percentile&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86&icon_color=0099cc" height="165" alt="GitHub statistics">
-  <img src="https://streak-stats.demolab.com?user=TurkishKEBAB&hide_border=true&background=00000000&ring=0099cc&fire=96660a&currStreakLabel=0099cc&sideLabels=737b86&dates=737b86&stroke=737b86&sideNums=737b86&currStreakNum=737b86" height="165" alt="Contribution streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TurkishKEBAB&layout=compact&hide_border=true&bg_color=00000000&title_color=0099cc&text_color=737b86" height="150" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@YigitOkur/55dfb1af-d534-472e-883e-b7e5130c2278.svg" width="49%" alt="WakaTime languages">
-  <img src="https://wakatime.com/share/@YigitOkur/a2cfc19f-3f33-474f-a36c-02a488c76701.svg" width="49%" alt="WakaTime editors">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TurkishKEBAB&bg_color=00000000&hide_border=true&radius=8&color=737b86&line=0099cc&point=96660a" alt="Contribution activity">
-</p>
-
-<sub>These figures cover public repositories and commit attribution on GitHub only.</sub>
 
 </details>
 
