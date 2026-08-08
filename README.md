@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/yi%C4%9Fit-okur-050b5b278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:yigitokur@ieee.org"><img src="https://img.shields.io/badge/Email-0099CC?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://yigitokur.me"><img src="https://img.shields.io/badge/Portfolio-1F2328?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://raw.githubusercontent.com/TurkishKEBAB/cv.pdf/main/cv.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-96660A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé"></a>
+  <a href="https://raw.githubusercontent.com/TurkishKEBAB/cv.pdf/main/Yigit_Okur_CV_v6.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-96660A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé"></a>
 </p>
 
 ```console
