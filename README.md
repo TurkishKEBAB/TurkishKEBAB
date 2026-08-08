@@ -170,7 +170,7 @@ availability  part-time during term · full-time over the summer
 
 <p align="center">
   <a href="mailto:yigitokur@ieee.org"><img src="https://img.shields.io/badge/Get_in_touch-0099CC?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in touch"></a>
-  <a href="https://raw.githubusercontent.com/TurkishKEBAB/cv.pdf/main/cv.pdf"><img src="https://img.shields.io/badge/Download_r%C3%A9sum%C3%A9-96660A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download résumé"></a>
+  <a href="https://raw.githubusercontent.com/TurkishKEBAB/main/Yigit_Okur_CV_v6.pdf"><img src="https://img.shields.io/badge/Download_r%C3%A9sum%C3%A9-96660A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download résumé"></a>
 </p>
 
 ---
