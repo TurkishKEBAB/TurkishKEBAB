@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140" role="img" aria-label="1,550 plus lines shipped to production at NETAS; 13 solvers registered in IsikSchedule; 35 plus technical events delivered at IEEE; 165 thousand lira TUBITAK grant secured for Sarkan UAV">
+  <title>Signal — durable metrics</title>
+
+  <!--
+    Only non-decaying facts live here. A hand-authored SVG cannot update itself,
+    so anything that moves (commit count, WakaTime hours, streak) is left to the
+    live cards in the collapsed Analytics section instead of going stale here.
+    Colours hold contrast on both #ffffff and #0d1117.
+  -->
+
+  <defs>
+    <style>
+      .mono {
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+                     "Liberation Mono", "Courier New", monospace;
+      }
+      .num { font-size: 36px; font-weight: 700; }
+      .lbl { font-size: 15px; fill: #737b86; }
+    </style>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="897" height="137" rx="12"
+        fill="none" stroke="#737b86" stroke-opacity="0.5" stroke-width="1.5"/>
+
+  <line x1="225" y1="24" x2="225" y2="116" stroke="#737b86" stroke-opacity="0.3" stroke-width="1.5"/>
+  <line x1="450" y1="24" x2="450" y2="116" stroke="#737b86" stroke-opacity="0.3" stroke-width="1.5"/>
+  <line x1="675" y1="24" x2="675" y2="116" stroke="#737b86" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <g text-anchor="middle" class="mono">
+    <text class="mono num" x="112.5" y="62" fill="#0099cc">1,550+</text>
+    <text class="mono lbl" x="112.5" y="90">lines shipped to</text>
+    <text class="mono lbl" x="112.5" y="110">production at NETAŞ</text>
+
+    <text class="mono num" x="337.5" y="62" fill="#0099cc">13</text>
+    <text class="mono lbl" x="337.5" y="90">solvers registered</text>
+    <text class="mono lbl" x="337.5" y="110">in IşıkSchedule</text>
+
+    <text class="mono num" x="562.5" y="62" fill="#0099cc">35+</text>
+    <text class="mono lbl" x="562.5" y="90">technical events</text>
+    <text class="mono lbl" x="562.5" y="110">delivered at IEEE</text>
+
+    <text class="mono num" x="787.5" y="62" fill="#96660a">₺165K</text>
+    <text class="mono lbl" x="787.5" y="90">TÜBİTAK grant for</text>
+    <text class="mono lbl" x="787.5" y="110">the Sarkan UAV</text>
+  </g>
+</svg>
